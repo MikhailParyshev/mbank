@@ -4,4 +4,7 @@
     <testsuite name="Demo">
         <directory>./tests/demo</directory>
     </testsuite>
+    <testsuite name="CornerCases">
+        <directory>./tests/corner</directory>
+    </testsuite>
 </phpunit>

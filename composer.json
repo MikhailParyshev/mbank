@@ -5,6 +5,10 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/"
-        }
+        },
+        "files": [
+            "helpers/generateUID.php",
+            "config/exceptionMessages.php"
+        ]
     }
 }
